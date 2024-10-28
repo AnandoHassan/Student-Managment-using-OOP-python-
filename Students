@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Alif",
+        "age": 22,
+        "address": "Dhaka",
+        "student_id": "S001",
+        "grades": {
+            "PHY101": "A+"
+        },
+        "courses": [
+            "PHY101"
+        ]
+    },
+    {
+        "name": "Sarah",
+        "age": 21,
+        "address": "Chittagong",
+        "student_id": "S002",
+        "grades": {
+            "BIO101": "B",
+            "CS101": "A"
+        },
+        "courses": [
+            "BIO101",
+            "CS101"
+        ]
+    },
+    {
+        "name": "John",
+        "age": 23,
+        "address": "Khulna",
+        "student_id": "S003",
+        "grades": {
+            "MTH101": "A",
+            "CHE101": "B+",
+            "CS101": "A-"
+        },
+        "courses": [
+            "MTH101",
+            "CHE101",
+            "CS101"
+        ]
+    },
+    {
+        "name": "Eva",
+        "age": 20,
+        "address": "Sylhet",
+        "student_id": "S004",
+        "grades": {
+            "MTH101": "A-",
+            "BIO101": "A"
+        },
+        "courses": [
+            "MTH101",
+            "BIO101"
+        ]
+    }
+]

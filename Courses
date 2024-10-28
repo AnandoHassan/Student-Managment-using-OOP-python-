@@ -1,0 +1,32 @@
+[
+    {
+        "course_name": "Physics",
+        "course_code": "PHY101",
+        "instructor": "Alif",
+        "students": ["S001", "S002"]
+    },
+    {
+        "course_name": "Mathematics",
+        "course_code": "MTH101",
+        "instructor": "Dr. Smith",
+        "students": ["S003", "S004"]
+    },
+    {
+        "course_name": "Chemistry",
+        "course_code": "CHE101",
+        "instructor": "Dr. Jones",
+        "students": ["S001", "S003"]
+    },
+    {
+        "course_name": "Biology",
+        "course_code": "BIO101",
+        "instructor": "Dr. Lee",
+        "students": ["S002", "S004"]
+    },
+    {
+        "course_name": "Computer Science",
+        "course_code": "CS101",
+        "instructor": "Dr. Wang",
+        "students": ["S001", "S002", "S003"]
+    }
+]
